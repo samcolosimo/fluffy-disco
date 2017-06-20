@@ -3,6 +3,6 @@ Python Learning Plan
 1. Array Indexing in Numpy
 2. Get better at PLOTTING with matplotlib
 3. look into pandas library
-4. import excel spreadsheets
+4. import TSV
 5. practice signal processing in numpy
 6. generators and co-routines
