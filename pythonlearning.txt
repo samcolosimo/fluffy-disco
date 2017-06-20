@@ -5,5 +5,4 @@ Python Learning Plan
 3. look into pandas library
 4. import excel spreadsheets
 5. practice signal processing in numpy
-
-
+6. generators and co-routines
