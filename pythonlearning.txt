@@ -1,0 +1,5 @@
+Python Learning Plan
+
+1. Array Indexing in Numpy
+2. Practice using pass in if/else statements
+3. 
